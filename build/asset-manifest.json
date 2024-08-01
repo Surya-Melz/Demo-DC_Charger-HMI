@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Demo-DC_Charger-HMI/static/css/main.adbb7676.css",
+    "main.js": "/Demo-DC_Charger-HMI/static/js/main.403bafac.js",
+    "static/js/453.371d5c2a.chunk.js": "/Demo-DC_Charger-HMI/static/js/453.371d5c2a.chunk.js",
+    "static/media/CCS-tran.png": "/Demo-DC_Charger-HMI/static/media/CCS-tran.32bf3b29d6a4d8292752.png",
+    "index.html": "/Demo-DC_Charger-HMI/index.html",
+    "main.adbb7676.css.map": "/Demo-DC_Charger-HMI/static/css/main.adbb7676.css.map",
+    "main.403bafac.js.map": "/Demo-DC_Charger-HMI/static/js/main.403bafac.js.map",
+    "453.371d5c2a.chunk.js.map": "/Demo-DC_Charger-HMI/static/js/453.371d5c2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adbb7676.css",
+    "static/js/main.403bafac.js"
+  ]
+}
